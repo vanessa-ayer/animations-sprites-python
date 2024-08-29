@@ -4,3 +4,5 @@ An animated sprite in Pygame is a graphical object that represents a character, 
 
 
 ### Animation
+
+![animation](sprite_frog_animation.gif)
